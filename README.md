@@ -57,7 +57,7 @@ I'm a Computer Engineering major. I am furthering my education at Universidad de
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+<!--
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-medina-a746a4354/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:medinacamacho27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>

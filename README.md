@@ -1,8 +1,3 @@
-<p align="center">
-  <img style="width:90%; height:auto" alt="Night Coding" src="./assets/coding.png"/> 
-</p>
-
-
 <h1 align="center">Hey there! I'm Juan Antonio Camacho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -49,10 +44,10 @@ I'm a Computer Engineering major. I am furthering my education at Universidad de
 ### <h2>⚙️ Github stats:</h2> 
 
 <p align="center">
-  <a href="https://github.com/MedinaPedroDev">
+  <a href="https://github.com/juaancamacho">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedinaPedroDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/MedinaPedroDev">
+  <a href="https://github.com/juaancamacho">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MedinaPedroDev&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
@@ -62,7 +57,7 @@ I'm a Computer Engineering major. I am furthering my education at Universidad de
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+<!--
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-medina-a746a4354/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:medinacamacho27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -70,8 +65,3 @@ I'm a Computer Engineering major. I am furthering my education at Universidad de
 <a href="https://www.facebook.com/profile.php?id=100009057373959"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 
------
-
-Credit: [MedinaPedroDev](https://github.com/MedinaPedroDev)
-
-Last Edited on: 03/03/2025
